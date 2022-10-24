@@ -2,4 +2,4 @@
 
 Preparing a JavaScript Documentation page
 
-live link:- https://vikash-08.github.io/js-documentation/
+🔗 https://vikash-08.github.io/js-documentation/
