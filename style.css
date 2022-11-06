@@ -49,3 +49,28 @@ body {
     padding: 10px 30px;
     display: block;
  }
+
+#main-doc {
+  margin-left: 310px;
+  padding: 20px;
+}
+
+section article {
+  color: #4d4e53;
+margin: 15px;
+}
+
+section li{
+  margin: 15px 0px 0px 20px;
+}
+
+code {
+  display: block;
+  text-align: left;
+background-color: #b6aeae;
+white-space: pre-line;
+padding: 15px;
+margin: 10px;
+border-radius: 5px;
+line-height: 2;
+}
