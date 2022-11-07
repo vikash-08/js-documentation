@@ -76,3 +76,10 @@ code {
   border-radius: 5px;
   line-height: 2;
 }
+
+@media (max-width: 760px){
+  #main-doc{
+    width: 100vw;
+    
+  }
+}
