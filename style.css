@@ -83,3 +83,11 @@ code {
     
   }
 }
+
+@media (max-width: 400px){
+code {
+    padding: 10px;
+    margin-left: 0;    
+    display: inline-block;
+}
+}
